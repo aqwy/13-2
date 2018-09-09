@@ -8,5 +8,10 @@ namespace _13_2
 {
     class LinkList
     {
+        private Link first;
+        public LinkList()
+        {
+            first = null;
+        }
     }
 }
